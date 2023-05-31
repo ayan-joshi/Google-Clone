@@ -19,5 +19,12 @@ This web application is a clone of Google, featuring image search and advanced s
 - CSS
 -
 ## Screenshots
-![Screenshot (177)](https://github.com/ayan-joshi/Google-Clone/assets/96243602/6144ba72-5575-4436-8b92-1e04d72f6dcc)
+
+![Screenshot (176)](https://github.com/ayan-joshi/Google-Clone/assets/96243602/d024a489-3175-47ab-a36f-c9b34716dfe5)
+
+![Screenshot (177)](https://github.com/ayan-joshi/Google-Clone/assets/96243602/8b9cdea7-2182-4183-a79d-76a1cf46becf)
+
+![Screenshot (175)](https://github.com/ayan-joshi/Google-Clone/assets/96243602/cad6b436-5b2d-4029-856e-af4580f6b629)
+
+
 
